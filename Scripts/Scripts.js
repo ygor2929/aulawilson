@@ -12,3 +12,4 @@ console.log(document.body.childNodes[1].childNodes[1].textContent); // aqui pesq
 const listaItens = document.getElementsByTagName('li');
 
 console.log(listaItens);
+                            
